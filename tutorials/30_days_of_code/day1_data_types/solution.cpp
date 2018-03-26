@@ -1,6 +1,6 @@
 /*
 * Author: greeneyedgeek
-* Data: 2018-03-26
+* Date: 2018-03-26
 */
 
 #include <iostream>
