@@ -5,32 +5,40 @@
     <br>
     <h2 align="center">My solutions to HackerRank Challenges</h2>
 </p>
-<div>
+<div align="left">
     <br/>
     <h3 align="center">Problem Solving</h3>
-    <ul>Algorithms</ul>
-    <ul>Data Structures</ul>
-    <ul>Mathematics</ul>
+    <ul>
+        <li>Algorithms</li>
+        <li>Data Structures</li>
+        <li>Mathematics</li>
+    </ul>
     <br/>
     <h3 align="center">Language Proficiency</h3>
-    <ul>C++</ul>
-    <ul>Java</ul>
-    <ul>Python</ul>
-    <ul>Ruby</ul>
-    <ul>Linux Shell</ul>
-    <ul>Functional Programming</ul>
+    <ul>
+        <li>C++</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>Ruby</li>
+        <li>Linux Shell</li>
+        <li>Functional Programming</li>
+    </ul>
     <br/>
     <h3 align="center">Specialized Skills</h3>
-    <ul>Artificial Intelligence</ul>
-    <ul>SQL</ul>
-    <ul>Databases</ul>
-    <ul>Regex</ul>
+    <ul>
+        <li>Artificial Intelligence</li>
+        <li>SQL</li>
+        <li>Databases</li>
+        <li>Regex</li>
+    </ul>
     <br/>
     <h3 align="center">Tutorials</h3>
-    <ul>30 Days of Code</ul>
-    <ul>10 Days of Javascript</ul>
-    <ul>10 Days of Statistics</ul>
-    <ul>Interview Preparation</ul>
+    <ul>
+        <li>30 Days of Code</li>
+        <li>10 Days of Javascript</li>
+        <li>10 Days of Statistics</li>
+        <li>Interview Preparation</li>
+    </ul>
     <br/>
 </div>
 
