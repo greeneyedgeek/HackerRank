@@ -5,31 +5,32 @@
     <br>
     <h2 align="center">My solutions to HackerRank Challenges</h2>
 </p>
-
-<h3 align="center">Problem Solving</h3>
-* Algorithms
-* Data Structures
-* Mathematics
-
-<h3 align="center">Language Proficiency</h3>
-* C++
-* Java
-* Python
-* Ruby
-* Linux Shell
-* Functional Programming
-
-<h3 align="center">Specialized Skills</h3>
-* Artificial Intelligence
-* SQL
-* Databases
-* Regex
-
-<h3 align="center">Tutorials</h3>
-* 30 Days of Code
-* 10 Days of Javascript
-* 10 Days of Statistics
-* Interview Preparation
-
-
+<div>
+    <br/>
+    <h3 align="center">Problem Solving</h3>
+    <ul>Algorithms</ul>
+    <ul>Data Structures</ul>
+    <ul>Mathematics</ul>
+    <br/>
+    <h3 align="center">Language Proficiency</h3>
+    <ul>C++</ul>
+    <ul>Java</ul>
+    <ul>Python</ul>
+    <ul>Ruby</ul>
+    <ul>Linux Shell</ul>
+    <ul>Functional Programming</ul>
+    <br/>
+    <h3 align="center">Specialized Skills</h3>
+    <ul>Artificial Intelligence</ul>
+    <ul>SQL</ul>
+    <ul>Databases</ul>
+    <ul>Regex</ul>
+    <br/>
+    <h3 align="center">Tutorials</h3>
+    <ul>30 Days of Code</ul>
+    <ul>10 Days of Javascript</ul>
+    <ul>10 Days of Statistics</ul>
+    <ul>Interview Preparation</ul>
+    <br/>
+</div>
 
