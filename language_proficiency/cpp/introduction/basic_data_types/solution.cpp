@@ -10,7 +10,6 @@ using namespace std;
 
 int main() {
     // Complete the code.
-        // Complete the code.
     int int_variable;
     long long_variable;
     char char_variable;
