@@ -23,3 +23,17 @@ int main(){
     
     return 0;
 }
+
+/* 
+* Testcase
+*
+* Input (stdin)
+* 4
+* 1 4 3 2
+*
+* Your Output (stdout)
+* 2 3 4 1 
+*
+* Expected Output
+* 2 3 4 1
+*/
