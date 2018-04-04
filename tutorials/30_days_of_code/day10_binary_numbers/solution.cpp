@@ -46,7 +46,6 @@ int main() {
 * Testcase
 * Input (stdin)
 * 5
-*
 * Your Output (stdout)
 * 1
 * Expected Output
