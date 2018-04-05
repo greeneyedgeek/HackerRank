@@ -17,12 +17,6 @@ int CalcHourglass(int i, int j, vector<vector<int>> arr) {
     
 }
 
-int GetMax(int a, int b) {
-    return a > b ? a : b;
-    
-}
-
-
 int main(){
     vector< vector<int> > arr(6,vector<int>(6));
     for(int arr_i = 0;arr_i < 6;arr_i++){
