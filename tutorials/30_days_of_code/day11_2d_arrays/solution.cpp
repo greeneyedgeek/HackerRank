@@ -8,8 +8,6 @@
 
 using namespace std;
 
-
-
 int CalcHourglass(int i, int j, vector<vector<int>> arr) {
     return arr[i+0][j+0] + arr[i+0][j+1] + arr[i+0][j+2]
                          + arr[i+1][j+1] +
