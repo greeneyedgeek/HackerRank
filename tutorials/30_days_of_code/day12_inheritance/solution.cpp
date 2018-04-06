@@ -40,7 +40,8 @@ class Student :  public Person{
         *   scores - An array of integers denoting the Person's test scores.
         */
         // Write your constructor here
-        Student(string firstName, string lastName, int identification, vector<int> scores): Person(firstName, lastName,                       identification){
+        Student(string firstName, string lastName, int identification, vector<int> scores): 
+	Person(firstName, lastName, identification){
             this->testScores = scores;
             
         }
