@@ -38,7 +38,7 @@ class MyBook : public Book {
     //
     // Write your constructor here
     public:
-    MyBook (string t,string a, int p) : Book (t, a) {
+    MyBook (string t, string a, int p) : Book (t, a) {
        this->price = p; 
 
     }
