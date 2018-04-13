@@ -19,7 +19,7 @@ class AdvancedArithmetic{
 
 class Calculator : public AdvancedArithmetic {
 public:
-//Solution
+    //Solution
     int divisorSum(int n) {
         if (n%2) {
             if (n == 1) { 
