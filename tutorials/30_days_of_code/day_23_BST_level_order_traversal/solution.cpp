@@ -40,28 +40,28 @@ class Solution{
         }
 	void levelOrder(Node * root){
 
-        if (root != nullptr) {
-            queue<Node*> nodeQueue;
-            nodeQueue.push(root);
+		if (root != nullptr) {
+		    queue<Node*> nodeQueue;
+		    nodeQueue.push(root);
 
-            do {
-                Node* node = nodeQueue.front();
-                cout << node->data << ' ';
-                nodeQueue.pop();
-                
-                if (node->left != nullptr) {
-                    nodeQueue.push(node->left);
-                    
-                }
-                
-                if (node->right != nullptr) {
-                    nodeQueue.push(node->right);
-                    
-                }
-                    
+		    do {
+			Node* node = nodeQueue.front();
+			cout << node->data << ' ';
+			nodeQueue.pop();
 
-            } while (!nodeQueue.empty());
-        }
+			if (node->left != nullptr) {
+			    nodeQueue.push(node->left);
+
+			}
+
+			if (node->right != nullptr) {
+			    nodeQueue.push(node->right);
+
+			}
+
+
+		    } while (!nodeQueue.empty());
+		}
 	}
 };//End of Solution
 int main(){
