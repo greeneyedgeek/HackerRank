@@ -22,7 +22,7 @@ class Node
 };
 class Solution{
     public:
-    //Method inspired by code written by Gaurav Saxen
+    //This method is using an algorithm written by Gaurav Saxen.
         Node* removeDuplicates(Node *head) {
             //Write your code here
               Node *current = head, *next, *duplicate;
