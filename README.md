@@ -4,7 +4,7 @@
     </a>
     <h2 align="center">My solutions to HackerRank Challenges</h2>
     <ul>
-    <li>The solution files also contain the template code provided by the challenges.</li>
+    <li>The solution files also contain the template code provided with the challenges.</li>
     </ul>
 </p>
 <div>
