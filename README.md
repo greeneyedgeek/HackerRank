@@ -11,8 +11,6 @@
     <h3 align="left">Problem Solving</h3>
     <ul>
         <li>Algorithms</li>
-        <li>Data Structures</li>
-        <li>Mathematics</li>
     </ul>
     <h3 align="left">Language Proficiency</h3>
     <ul>
