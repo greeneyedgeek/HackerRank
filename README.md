@@ -20,15 +20,11 @@
     </ul>
     <h3 align="left">Specialized Skills</h3>
     <ul>
-        <li>Artificial Intelligence</li>
         <li>SQL</li>
-        <li>Databases</li>
-        <li>Regex</li>
     </ul>
     <h3 align="left">Tutorials</h3>
     <ul>
         <li>30 Days of Code</li>
-        <li>Interview Preparation</li>
     </ul>
 </div>
 
