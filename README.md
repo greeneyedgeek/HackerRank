@@ -19,9 +19,6 @@
         <li>C++</li>
         <li>Java</li>
         <li>Python</li>
-        <li>Ruby</li>
-        <li>Linux Shell</li>
-        <li>Functional Programming</li>
     </ul>
     <h3 align="left">Specialized Skills</h3>
     <ul>
@@ -33,8 +30,6 @@
     <h3 align="left">Tutorials</h3>
     <ul>
         <li>30 Days of Code</li>
-        <li>10 Days of Javascript</li>
-        <li>10 Days of Statistics</li>
         <li>Interview Preparation</li>
     </ul>
 </div>
