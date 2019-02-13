@@ -11,7 +11,8 @@
 
 Problem Solving      |
 ---------------------|
-Algorithms           | 
+Algorithms           |
+
 ---------------------|
 C++                  |
 Java                 |
