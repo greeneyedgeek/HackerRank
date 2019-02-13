@@ -8,20 +8,18 @@
     </ul>
 </p>
 <div>
-    <h3 align="left">Problem Solving</h3>
-    <ul>
-        <li>Algorithms</li>
-    </ul>
-    <h3 align="left">Language Proficiency</h3>
-    <ul>
-        <li>C++</li>
-        <li>Java</li>
-        <li>Python</li>
-    </ul>
-    <h3 align="left">Specialized Skills</h3>
-    <ul>
-        <li>SQL</li>
-    </ul>
+
+Problem Solving      |
+---------------------|
+Algorithms           | 
+---------------------|
+C++                  |
+Java                 |
+Python               |
+
+Specialized Skills   |
+---------------------|
+SQL                  | 
     
 Tutorials            |
 ---------------------|
