@@ -22,9 +22,9 @@
     <ul>
         <li>SQL</li>
     </ul>
-    <h3 align="left">Tutorials</h3>
-    <ul>
-        <li>30 Days of Code</li>
-    </ul>
+Tutorials
+----------
+30 days of code
+10 days of Javascript
 </div>
 
