@@ -9,24 +9,28 @@
 </p>
 <div>
 
-Problem Solving      |
----------------------|
-Algorithms           |
+|Problem Solving      |
+|---------------------|
+|Algorithms           |
+|<img width=200/>     |
 
-Language Proficiency
----------------------|
-C++                  |
-Java                 |
-Python               |
+|Language Proficiency
+|---------------------|
+|C++                  |
+|Java                 |
+|Python               |
+|<img width=200/>     |
 
-Specialized Skills   |
----------------------|
-SQL                  | 
+|Specialized Skills   |
+|---------------------|
+|SQL                  |
+|<img width=200/>     |
     
-Tutorials            |
----------------------|
-30 days of code      | 
-10 days of Javascript|
+|Tutorials            |
+|---------------------|
+|30 days of code      | 
+|10 days of Javascript|
+|<img width=200/>     |
 
 </div>
 
