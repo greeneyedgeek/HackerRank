@@ -13,6 +13,7 @@ Problem Solving      |
 ---------------------|
 Algorithms           |
 
+Language Proficiency
 ---------------------|
 C++                  |
 Java                 |
