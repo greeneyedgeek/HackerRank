@@ -3,12 +3,12 @@
 using namespace std;
 
 class Box{
-public:
+private:
     //l,b,h are integers representing the dimensions of the box
     int l, b, h;
 
     // The class should have the following functions : 
-
+public:
     // Constructors: 
     // Box();
     Box() {
@@ -23,10 +23,10 @@ public:
         this->h = h;
     }
     // Box(Box);
-    Box(Box &B) {
-    this->l = B.getLength();
-    this->b = B.getBreadth();
-    this->h = B.getHeight();
+    Box(Box &box) {
+    this->l = box.getLength();
+    this->b = box.getBreadth();
+    this->h = box.getHeight();
     }
 
     int getLength() { return l; }
@@ -38,12 +38,12 @@ public:
 
     // Overload operator < as specified
     // bool operator<(Box& b)
-    bool operator<(Box& B) {
+    bool operator<(Box &box) {
       bool is_smaller =
-          (this->l < B.getLength() ||
-           ((this->b < B.getBreadth()) && (this->l == B.getLength())) ||
-           ((this->h < B.getHeight()) && (this->b == B.getBreadth()) &&
-            (this->l == B.getLength())));
+          (this->l < box.getLength() ||
+           ((this->b < box.getBreadth()) && (this->l == box.getLength())) ||
+           ((this->h < box.getHeight()) && (this->b == box.getBreadth()) &&
+            (this->l == box.getLength())));
 
       return is_smaller;
     }
