@@ -24,9 +24,9 @@ public:
     }
     // Box(Box);
     Box(Box &box) {
-    this->l = box.getLength();
-    this->b = box.getBreadth();
-    this->h = box.getHeight();
+        this->l = box.getLength();
+        this->b = box.getBreadth();
+        this->h = box.getHeight();
     }
 
     int getLength() { return l; }
