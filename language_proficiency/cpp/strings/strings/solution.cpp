@@ -6,7 +6,7 @@ int main() {
 	// Complete the program
     string a, b;
     cin >> a >> b;
-    cout << a.length()<< ' ' << b.length() << endl;
+    cout << a.length() << ' ' << b.length() << endl;
     cout << a << b << endl;
 
     char temp = a.at(0);
