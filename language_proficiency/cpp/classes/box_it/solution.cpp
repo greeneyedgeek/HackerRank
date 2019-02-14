@@ -49,8 +49,8 @@ public:
     }
     // Overload operator << as specified
     // ostream& operator<<(ostream& out, Box& B)
-    friend ostream &operator<<(ostream &out, Box &B){
-        return out << B.getLength() << ' ' << B.getBreadth() << ' ' << B.getHeight();
+    friend ostream &operator<<(ostream &out, Box &box){
+        return out << box.getLength() << ' ' << box.getBreadth() << ' ' << box.getHeight();
     }
 };
 
