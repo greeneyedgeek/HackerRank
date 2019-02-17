@@ -11,21 +11,21 @@
 
 |Problem Solving      |
 |---------------------|
-|Algorithms<img width=190/>|
+|Algorithms|
 
 |Language Proficiency
 |---------------------|
-|C++<img width=197/>|
+|C++|
 |Java                 |
 |Python|
 
 |Specialized Skills   |
 |---------------------|
-|SQL<img width=197/>|
+|SQL|
     
 |Tutorials            |
 |---------------------|
-|30 days of code<img width=175/>| 
+|30 days of code| 
 |10 days of Javascript|
 
 </div>
