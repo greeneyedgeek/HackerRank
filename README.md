@@ -9,7 +9,7 @@
 </p>
 <div>
 
-|Problem Solving<img width=185/>|
+|Problem Solving|
 |---------------------|
 |Algorithms|
 
