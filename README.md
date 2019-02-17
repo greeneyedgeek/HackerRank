@@ -11,7 +11,7 @@
 
 |Problem Solving      |
 |---------------------|
-|Algorithms<img width=190/>|
+|Algorithms<img width=189/>|
 
 |Language Proficiency
 |---------------------|
@@ -25,7 +25,7 @@
     
 |Tutorials            |
 |---------------------|
-|30 days of code<img width=185/>| 
+|30 days of code<img width=175/>| 
 |10 days of Javascript|
 
 </div>
