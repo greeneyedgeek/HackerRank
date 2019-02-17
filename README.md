@@ -11,26 +11,22 @@
 
 |Problem Solving      |
 |---------------------|
-|Algorithms|
-|<img width=200/>|
+|Algorithms<img width=190/>|
 
 |Language Proficiency
 |---------------------|
-|C++                  |
+|C++<img width=197/>|
 |Java                 |
 |Python|
-|<img width=200/>|
 
 |Specialized Skills   |
 |---------------------|
-|SQL|
-|<img width=200/>|
+|SQL<img width=197/>|
     
 |Tutorials            |
 |---------------------|
-|30 days of code      | 
+|30 days of code<img width=185/>| 
 |10 days of Javascript|
-|<img width=200/>|
 
 </div>
 
