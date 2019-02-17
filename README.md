@@ -11,7 +11,7 @@
 
 |Problem Solving      |
 |---------------------|
-|Algorithms<img width=189/>|
+|Algorithms<img width=190/>|
 
 |Language Proficiency
 |---------------------|
