@@ -9,21 +9,21 @@
 <div>
 
 |Problem Solving|
-|---------------------|
+|:---------------------|
 |Algorithms|
 
 |Language Proficiency
-|---------------------|
+|:---------------------|
 |C++|
 |Java                 |
 |Python|
 
 |Specialized Skills   |
-|---------------------|
+|:---------------------|
 |SQL|
     
 |Tutorials            |
-|---------------------|
+|:---------------------|
 |30 days of code| 
 |10 days of Javascript|
 
