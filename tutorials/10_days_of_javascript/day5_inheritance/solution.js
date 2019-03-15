@@ -17,9 +17,7 @@ Rectangle.prototype.area = function() {
  */
 class Square extends Rectangle {
     constructor(s) {
-        super(s);
-        this.w = s;
-        this.h = s;
+        super(s, s);
     }
 }
 
