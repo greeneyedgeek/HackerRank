@@ -29,9 +29,7 @@ function readLine() {
  * nums: An array of numbers.
  */
 function modifyArray(nums) {
-    let modify = n => (n % 2 === 0) ? 2 * n : 3 * n;
-    let mod_nums = nums.map(modify);
-    return mod_nums;
+    return nums.map(n => (n % 2) ? 3 * n : 2 * n);
 }
 
 
