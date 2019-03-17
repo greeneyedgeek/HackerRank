@@ -7,6 +7,7 @@
 #include <vector>
 using namespace std;
 
+/* Enter your code here. Read input from STDIN. Print output to STDOUT */
 float mean(vector<int> elements) 
 {
     double sum{0};
@@ -29,36 +30,35 @@ float median(vector<int> elements)
 // tutorialspoint.com/learn_c_by_examples/mode_program_in_c.htm
 int mode(vector<int> elements)
 {
-sort(elements.begin(), elements.end());
-int size = elements.size();
-int count{0}, maxCount{0}, i, j;
-int value = elements[0];
-for (i = 0; i < size; i++) 
-{
-    count = 0;
-    for (j = 0; j < i; j++) 
+    sort(elements.begin(), elements.end());
+    int size = elements.size();
+    int count{0}, maxCount{0}, i, j;
+    int value = elements[0];
+    for (i = 0; i < size; i++) 
     {
-      if (elements[i] == elements[j]) 
-      {
-        count++;
-      }
-    }
-    if (count > maxCount) 
-    {
-      maxCount = count;
-      value = elements[i];
-    }
-    if (count == maxCount && value > elements[i]) 
-    {
-        value = elements[i];
-    }
-}      
-return value;
+        count = 0;
+        for (j = 0; j < i; j++) 
+        {
+          if (elements[i] == elements[j]) 
+          {
+            count++;
+          }
+        }
+        if (count > maxCount) 
+        {
+          maxCount = count;
+          value = elements[i];
+        }
+        if (count == maxCount && value > elements[i]) 
+        {
+            value = elements[i];
+        }
+    }      
+    return value;
 }
 
 int main() 
 {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     int n, element;
     vector<int> elements;
     
