@@ -11,8 +11,7 @@ float median(vector<int> elements) {
   sort(elements.begin(), elements.end());
   return (elements.size() % 2) ? (float)elements[((size - 1) / 2)]
                                : (float)(elements[((size - 1) / 2)] +
-                                         elements[((size - 1) / 2) + 1]) /
-                                     2;
+                                         elements[((size - 1) / 2) + 1]) / 2;
 }
 
 int main() {
